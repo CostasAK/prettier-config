@@ -1,0 +1,9 @@
+{
+  "name": "@CostasAK/prettier-config",
+  "version": "1.0.0",
+  "description": "My shareable Prettier configuration",
+  "main": "index.json",
+  "repository": "git@github.com:CostasAK/prettier-config.git",
+  "author": "CostasAK (https://github.com/CostasAK)",
+  "license": "MIT"
+}
