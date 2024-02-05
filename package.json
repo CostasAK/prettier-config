@@ -1,5 +1,5 @@
 {
-  "name": "@CostasAK/prettier-config",
+  "name": "@costasak/prettier-config",
   "version": "1.0.0",
   "description": "My shareable Prettier configuration",
   "main": "index.json",
